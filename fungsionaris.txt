@@ -1,0 +1,172 @@
+<table class="table">
+  <tbody>
+    <tr>
+      <th>YUSUF RAHMAD RAMADHAN</th>
+      <td>MAS'UL</td>
+      <th>DWI RAHMAWATI</th>
+      <td>MAS'UL</td>
+      <th>YUSUF RAHMAD RAMADHAN</th>
+      <td>MAS'UL</td>
+    </tr>
+    <tr>
+      <th>MUHAMMAD HAFIZ AMANULLAH</th>
+      <td>WAMAS'UL</td>
+      <th>HIMMATUN ALIYAH</th>
+      <td>WAMAS'UL</td>
+      <th>DESY DWI HANDAYANI</th>
+      <td>WAMAS'UL</td>
+    </tr>
+    <tr>
+      <th>NUR FITRIANI</th>
+      <td>SEKRETARIS 1</td>
+      <th>LULUK MUBAROROH</th>
+      <td>SEKRETARIS 1</td>
+      <th>NUR FITRIANI</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>NUR AUDIYAH</th>
+      <td>SEKRETARIS 2</td>
+      <th>HILDA HIDAYAH OKTAVIANI</th>
+      <td>SEKRETARIS 1</td>
+      <th>NUR AUDIYAH</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>ERNAWATI</th>
+      <td>BENDAHARA 1</td>
+      <th>AURA CANTIKA CAMILA</th>
+      <td>SEKRETARIS 1</td>
+      <th>ERNAWATI</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>SITI CHOTIJAH</th>
+      <td>BENDAHARA 2</td>
+      <th>MAYA NURSA’IDAH</th>
+      <td>SEKRETARIS 1</td>
+      <th>SITI CHOTIJAH</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>AFIATUN NISA</th>
+      <td>KEPALA DEPARTEMEN</td>
+      <th>DIFA PUTRI HIMAWAN</th>
+      <td>SEKRETARIS 1</td>
+      <th>AFIATUN NISA</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>AFIFAH ZULFA KHOIRUNNISA</th>
+      <td>SEKRETARIS DEPARTEMEN</td>
+      <th>RIZKA AUGINA</th>
+      <td>SEKRETARIS 1</td>
+      <th></th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>KARUNIA DEWI</th>
+      <td>ANGGOTA</td>
+      <th>ANUR WAHYU NINGTYAS</th>
+      <td>SEKRETARIS 1</td>
+      <th>KARUNIA DEWI</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>ALVINA NERATANIA</th>
+      <td>ANGGOTA</td>
+      <th>RIZKI NURUL HAYATI</th>
+      <td>SEKRETARIS 1</td>
+      <th>ALVINA NERATANIA</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>TRY ASTUTI</th>
+      <td>ANGGOTA</td>
+      <th>ZAID HABIBULLAH</th>
+      <td>SEKRETARIS 1</td>
+      <th>TRY ASTUTI</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>ALWAN</th>
+      <td>ANGGOTA</td>
+      <th>RICHA</th>
+      <td>SEKRETARIS 1</td>
+      <th>ALWAN</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>HIFNI AULIA A</th>
+      <td>ANGGOTA</td>
+      <th>RESTYANI RAMADANTY</th>
+      <td>SEKRETARIS 1</td>
+      <th>HIFNI AULIA A</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>DIFFIC NIAN INSYAFIAH</th>
+      <td>ANGGOTA</td>
+      <th>MUHAMMAD NAFIS RONI WIJAYA</th>
+      <td>SEKRETARIS 1</td>
+      <th>DIFFIC NIAN INSYAFIAH</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>FINDA HASTIN N</th>
+      <td>ANGGOTA</td>
+      <th>ILYAS</th>
+      <td>SEKRETARIS 1</td>
+      <th>FINDA HASTIN N</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>PUTRI YUYUN UTAMI</th>
+      <td>SEKRETARIS 1</td>
+      <th>ANISSA ANDZANNI PUTRI HARWANNI</th>
+      <td>SEKRETARIS 1</td>
+      <th>PUTRI YUYUN UTAMI</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>NISHFA MUFATIHAH</th>
+      <td>SEKRETARIS 1</td>
+      <th>TAWALLANI AFIDDAH</th>
+      <td>SEKRETARIS 1</td>
+      <th>NISHFA MUFATIHAH</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>NADILA QOTHRUN NADA</th>
+      <td>SEKRETARIS 1</td>
+      <th>ADINDA HAPSARI</th>
+      <td>SEKRETARIS 1</td>
+      <th>NADILA QOTHRUN NADA</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>DINA MASLICHAH</th>
+      <td>SEKRETARIS 1</td>
+      <th>HANIFAH</th>
+      <td>SEKRETARIS 1</td>
+      <th>DINA MASLICHAH</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>MUKHLIS ABDUL LATIF</th>
+      <td>SEKRETARIS 1</td>
+      <th>ANDI JOHAN FAJAR</th>
+      <td>SEKRETARIS 1</td>
+      <th>MUKHLIS ABDUL LATIF</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+    <tr>
+      <th>SARMINI</th>
+      <td>SEKRETARIS 1</td>
+      <th>TRIZHA AYU AGUSTIN</th>
+      <td>SEKRETARIS 1</td>
+      <th>SARMINI</th>
+      <td>SEKRETARIS 1</td>
+    </tr>
+  </tbody>
+</table>

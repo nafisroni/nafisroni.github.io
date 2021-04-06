@@ -1,8 +1,17 @@
 .jumbotron {
-  padding-top: 1rem;
-  background-color: #00f8f8;
+  padding-top: 5rem;
+  background-color: #fafa29;
 }
-#table {
-  padding-top: 1rem;
-  background-color: #00f8f8;
+#berita {
+  padding-top: 2rem;
+  background-color: #fafa29;
+}
+#contact {
+  padding-top: 2rem;
+  background-color: #fafa29;
+}
+
+.ketua {
+  text-align: center;
+  list-style: none;
 }
